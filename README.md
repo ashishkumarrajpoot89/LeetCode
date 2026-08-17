@@ -47,9 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
