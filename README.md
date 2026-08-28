@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0322-coin-change) |
 | [0566-reshape-the-matrix](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0575-distribute-candies) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
