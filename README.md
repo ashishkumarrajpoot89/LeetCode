@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
