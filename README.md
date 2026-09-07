@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0575-distribute-candies) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0598-range-addition-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0013-roman-to-integer) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1143-longest-common-subsequence](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
