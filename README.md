@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0125-valid-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1143-longest-common-subsequence](https://github.com/ashishkumarrajpoot89/https-github.com-ashishkumarrajpoot89-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
