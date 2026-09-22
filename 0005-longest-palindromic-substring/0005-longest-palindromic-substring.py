@@ -1,6 +1,6 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        def is_palindrome(sub: str) -> bool:
+        def is_palindrome(sub):
             return sub == sub[::-1]
 
         longest = ""
